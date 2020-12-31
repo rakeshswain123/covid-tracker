@@ -4,12 +4,5 @@
 }
 
 .list {
-  li {
-    display: inline-block;
-    a {
-      color: #cccccc;
-      font-size: 14px;
-      @include transition;
-    }
-  }
+  
 }

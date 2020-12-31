@@ -35,7 +35,7 @@ const Cards = ({
       style: styles.active,
       text: "Active",
       value: active,
-      bottomText: "Number of active cases of COVID-19",
+      bottomText: "Number of active cases of COVID",
     },
   ];
   return (
