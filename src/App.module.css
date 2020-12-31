@@ -9,8 +9,8 @@ body {
   flex-direction: column;
 }
 .image {
-  width: 370px;
-  margin-top: 50px;
+  width: 371px;
+  margin-top: 51px;
 }
 @media (max-width: 770px) {
   .container {
